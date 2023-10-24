@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Norhane Cherif</h1>
 <h3 align="center">A computer science engineering student</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programming-gif-25868426">
-
-<div align="left"> <img src="[https://komarev.com/ghpvc/?username=norhanech&label=Profile%20views&color=0e75b6&style=flat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHB1Z2x5enA2bjd4anBmamhpcDcyNTZxMTJyMXhhMjNrNjZubDJkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif)" alt="norhanech" /> </div>
 
 - 📫 How to reach me **kn_cherif@esi.dz**
 
