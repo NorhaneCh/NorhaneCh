@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Norhane CHERIF</h1>
 <h3 align="center">A Computer Science Engineering Student and a Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=norhanech&label=Profile%20views&color=0e75b6&style=flat" alt="norhanech" /> </p>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://norhanecherif-norhanech-norhane-cherifs-projects.vercel.app/)
 
