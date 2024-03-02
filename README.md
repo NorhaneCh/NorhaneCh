@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://norhanecherif-norhanech-norhane-cherifs-projects.vercel.app/)
 
-- 📫 How to reach me **kn_cherif@esi.dz**
+- 📫 How to reach me [My Email](kn_cherif@esi.dz)
 
 - ⚡ Fun fact **I love watching k-dramas**
 
