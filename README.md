@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **kn_cherif@esi.dz**
 
-- ⚡ Fun fact **I love watching k-dramas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
