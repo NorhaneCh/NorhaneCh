@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Norhane CHERIF</h1>
 <h3 align="center">A Computer Science Engineering Student and a Web Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://norhanecherif-norhanech-norhane-cherifs-projects.vercel.app/](https://norhanecherif-norhanech-norhane-cherifs-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://norhanecherif-norhanech-norhane-cherifs-projects.vercel.app/)
 
 - 📫 How to reach me **kn_cherif@esi.dz**
 
