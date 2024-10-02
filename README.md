@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Norhane CHERIF</h1>
 <h3 align="center">Computer Science Engineering Student | Web Developer | AI Enthusiast</h3>
 
-<p align="center"><img src="https://pin.it/yIsE0jQh2"/></p>
 
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://norhanecherif-norhanech-norhane-cherifs-projects.vercel.app/)
