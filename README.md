@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Norhane CHERIF</h1>
-<h3 align="center">Computer Science Engineering Student | Web Developer | AI Enthusiast</h3>
+<h3 align="center">Computer Science Student | Web Developer | AI Enthusiast</h3>
 
 
 
